@@ -143,7 +143,7 @@ The application uses Nvidia's NIM API endpoints:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [GPL V3 License](LICENSE).
 
 ## 🙏 Acknowledgments
 
@@ -161,6 +161,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 *Feel free to connect for collaborations, questions, or feedback!*
 
----
 
-**⭐ If you found this project helpful, please give it a star!**
